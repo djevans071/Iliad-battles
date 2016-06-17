@@ -1,2 +1,2 @@
 # Iliad-battles
-Pandas practice with data from Homer's Iliad
+Pandas practice with data from Homer's *Iliad*
